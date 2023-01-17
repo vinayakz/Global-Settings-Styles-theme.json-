@@ -44,7 +44,7 @@
 			  "color": {
 				"defaultPalette": true,
 				"palette": [
-				  { "slug": "u-primary", "color": "#ef4444", "name": "Udemy Primary" }
+				  { "slug": "u-primary", "color": "#ef4444", "name": "vinoo Primary" }
 				],
 				"link": true,
 				"custom": false,
@@ -56,7 +56,7 @@
 				  { 
 					"fontFamily": "Pacifico, sans-serif", 
 					"slug": "u-pacifico",
-					"name": "Udemy Pacifico" 
+					"name": "vinoo Pacifico" 
 				  }
 				]
 			  }
@@ -85,7 +85,7 @@
 			  { 
 				"fontFamily": "Rubik, sans-serif", 
 				"slug": "u-rubik",
-				"name": "Udemy Rubik" 
+				"name": "vinoo Rubik" 
 			  }
 			],
 			"fontSizes": [
